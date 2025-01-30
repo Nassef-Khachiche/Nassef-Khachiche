@@ -1,4 +1,4 @@
-<p>Hello! 👋 I'm Nassef Khachiche, a passionate and dedicated developer. I thrive on the challenges that come with developing intuitive and dynamically generated and appealing user interfaces.</p> <br>
+<p>Hello! 👋 I'm Nassef Khachiche, a passionate and dedicated developer. I thrive on the challenges that come with developing intuitive and dynamically generated interfaces.</p> <br>
 
 **My coding toolkit**
 
